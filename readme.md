@@ -17,7 +17,7 @@ pip install -r requirements.txt
 To run the app, execute the following command in your terminal:
 
 ```
-streamlit run yfinance.py
+streamlit run streamlit_yfinance.py
 ```
 
 ### Usage
